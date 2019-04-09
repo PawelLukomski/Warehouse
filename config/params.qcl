@@ -1,0 +1,15 @@
+mainParams
+    pageName:"Magazyn"
+    sqlFile:"db.json"
+navParams
+    Produkty:"/Products"
+    Artykuły:"/Articles/All"
+    Kontrahenci:"/Contractors/"
+    [Zamówienia - produkcja]:"/OrdersProduction"
+    [Zamówienia - Materiałów]:"/Orders/"
+    Operacje:"/Options/"
+    Lista:"/List"
+
+
+outTemplate
+    nothing:"nothing"
